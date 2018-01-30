@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  DanMuTest
+//  ZBarrage
 //
-//  Created by Zeus on 2017/7/28.
-//  Copyright © 2017年 Zeus. All rights reserved.
+//  Created by zc09v on 16/11/28.
+//  Copyright © 2016年 zc09v. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
